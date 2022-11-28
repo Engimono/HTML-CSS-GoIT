@@ -1,0 +1,151 @@
+body {
+    background: #f5f7fa;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.cv-photo {
+    margin-top: 25px;
+}
+
+.ref-aside {
+    color: #696969;
+}
+
+.list-aside {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.list-aside-item {
+    color: #ffffff;
+}
+
+.contact-block {
+    margin-top: 51px;
+    margin-left: 41px;
+}
+
+.skills-block {
+    margin-top: 47px;
+    margin-left: 41px;
+}
+
+.language-block {
+    margin-top: 44px;
+    margin-left: 41px;
+}
+
+main {
+    padding: 102px 88px 102px 88px;
+}
+.intro-block {
+    width: 400px;
+}
+
+.intro-position-name {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+
+.intro-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #595959;
+
+    margin-bottom: 40px;
+    text-align: justify;
+}
+
+.projects-block {
+    width: 485px;
+    margin-bottom: 51px;
+}
+
+.list-projects-numbers {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.list-projects-content {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #595959;
+    text-decoration: none;
+}
+
+.ref-projects {
+    text-decoration: none;
+}
+
+.h2-main {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.work-time-country {
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+}
+.education-block {
+    margin-top: 43px;
+}
+
+.orange-highlight {
+    color: #fb6d3a;
+}
+
+.education-univer-name {
+    color: #fb6d3a;
+}
+
+.list-main {
+    padding: 0;
+    list-style-position: inside;
+    color: #595959;
+    text-align: justify;
+}
