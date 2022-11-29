@@ -34,7 +34,7 @@ aside {
     font-size: 14px;
     line-height: 24px;
     padding: 0;
-    list-style-position: inside;
+    padding-left: 20px;
 }
 
 .list-aside-item {
@@ -131,21 +131,15 @@ h1 {
     line-height: 15px;
     color: #a8a8a8;
 }
-.education-block {
-    margin-top: 43px;
-}
 
 .orange-highlight {
     color: #fb6d3a;
 }
 
-.education-univer-name {
-    color: #fb6d3a;
-}
-
 .list-main {
     padding: 0;
-    list-style-position: inside;
+
+    padding-left: 20px;
     color: #595959;
     text-align: justify;
 }
